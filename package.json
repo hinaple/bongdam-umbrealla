@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "name": "bongdam-umbrealla",
+  "description": "봉담고 우산 대여 시스템",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinaple/bongdam-umbrealla.git"
+  },
+  "author": "fainthit@kakao.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinaple/bongdam-umbrealla/issues"
+  },
+  "homepage": "https://github.com/hinaple/bongdam-umbrealla#readme"
+}

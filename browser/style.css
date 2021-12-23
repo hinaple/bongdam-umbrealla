@@ -1,0 +1,31 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.container {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: solid #000 5px;
+    width: calc(100% - 300px);
+    max-width: 500px;
+    max-height: calc(100% - 300px);
+    padding: 10px;
+}
+.applications {
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    border-spacing: 0 5px;
+}
+.applications tr {
+    border-bottom: solid #000 1px;
+}
+td {
+    text-align: center;
+}
